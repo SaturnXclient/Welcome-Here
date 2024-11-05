@@ -8,7 +8,6 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="./assets/coding.gif" width="450" height="350" />
 
 <img height="30px" alt="html" src="./assets/icons/cat-git.gif"><b>About me</b>
 
