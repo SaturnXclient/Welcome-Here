@@ -2,7 +2,7 @@
 
 <br />
 
-<h1 align="center">Hello I'm Hossein Haghshenas</h1>
+<h1 align="center">Hello I'm Kr1tox</h1>
 <h3 align="center">Front-end Developer</h3>
 
 <br />
